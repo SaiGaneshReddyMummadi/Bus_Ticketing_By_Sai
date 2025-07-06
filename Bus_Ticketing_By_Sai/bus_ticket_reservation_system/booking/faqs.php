@@ -27,6 +27,6 @@
     Who is the Developer of this system?
   </div>
   <div class="content" id="c4">
-    <p class="transition">Good question, The developer and CEO of VISHAL SHAH PVT.LTD , Vishal Shah Contact: <a>+918178930006</a> or Email me at: <a>vishal12kl@gmail.com</a> for more inquiries. </p>
+    <p class="transition">Good question, The developer and CEO of Sai Ganesh Reddy Transports , Ganesh Reddy Contact: <a>+919550913542</a> or Email me at: <a>saiganeshreddymummadi@gmail.com</a> for more inquiries. </p>
   </div>
 </div>

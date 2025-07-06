@@ -49,4 +49,4 @@ Browse the Modern Ticket Reservation System in a browser. i.e. http://localhost/
 
 Admin Access
 Username: admin
-Password: Vishyy@123
+Password: Ganesh@1234

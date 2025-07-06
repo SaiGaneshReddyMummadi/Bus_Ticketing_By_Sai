@@ -44,14 +44,14 @@
             <div class="row">
          <h1 class="ui huge header">About Developer</h1>
          </div>
-        <div class="ui horizontal divider"> VISHAL SHAH PVT.LTD</div>      
+        <div class="ui horizontal divider"> Sai Ganesh Reddy Transports</div>      
 		<div class="row">
         <div class="ui segment">
   <img class="ui centered medium circular image" src="developer1.jpg"><br>
   <div class="ui horizontal divider">About me</div>
-		<p>Hi, there!. This is Vishal Shah, the developer VISHAL SHAH PVT.LTD . I love programming, I started learning to code when I was a teenager, though it was always more of a hobby than a career focus. and continuing to pursue that hobby, I realized software engineering was the right field for me.. I Studied In GLBAJAJ</p> 
+		<p>Hi, there!. This is Sai Ganesh Reddy Transport . I love programming, I started learning to code when I was a teenager, though it was always more of a hobby than a career focus. and continuing to pursue that hobby, I realized software engineering was the right field for me.. I Studied In GLBAJAJ</p> 
 		<div class="ui horizontal divider">Contacts Details</div>
-		<p>Wondering where to find me? Reach me at;<br> Email: <a>vishal12kl@gmail.com</a> <br>Personal Contact : <a>+91 8178930006</a><br> I am willing to teach new Technologies in My College</p>
+		<p>Wondering where to find me? Reach me at;<br> Email: <a>saiganeshreddymummadi@gmail.com</a> <br>Personal Contact : <a>+91 8178930006</a><br> I am willing to teach new Technologies in My College</p>
 		</div>		
         </div>
 			</div>	

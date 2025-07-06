@@ -87,9 +87,9 @@ CREATE TABLE IF NOT EXISTS `booking_details` (
 -- Dumping data for table `booking_details`
 --
 
-INSERT INTO `booking_details` (`order_ref`, `fullname`, `contact`, `gender`, `class_reserved`, `destination`, `seats_reserved`, `date_reserved`, `transaction_id`, `account`, `amount`) VALUES
-('RA84O43T53E', 'Vishal Shah', '0705481696', 'MALE', 'Middle Class Travel', 'NEW DELHI to MUMBAI', '1', 'June 10, 2023', '38329432422', 'PAYTM', '1800'),
-('BE19O27T62R', 'Vanshika Madnawat', '0342423', 'FEMALE', 'Middle Class Travel', 'MUMBAI to NEW DELHI', '1', 'June 11, 2017', '807678678', 'SBI_BANK', '1800');
+INSERT INTO `booking_details` VALUES
+('OR1001SGR', 'Rakesh Kumar', '9876543210', 'MALE', 'Middle Class Travel', 'NEW DELHI to MUMBAI', '1', 'July 05, 2025', 'TXN123456', 'UPI', '3000'),
+('OR1002SGR', 'Anusha Reddy', '9123456780', 'FEMALE', 'AC Travel', 'NEW DELHI to MUMBAI', '2', 'July 06, 2025', 'TXN654321', 'HDFC_BANK', '2500');
 
 -- --------------------------------------------------------
 

@@ -8,7 +8,7 @@
     <meta content="Semantic-UI, Theme, Design, Template" name="keywords" />
     <meta content="PPType" name="author" />
     <meta content="#ffffff" name="theme-color" />
-    <title>Admin Dashboard</title>
+    <title>Admin Panel | Sai Ganesh Reddy Transport</title>
     <link href="static/dist/semantic-ui/semantic.min.css" rel="stylesheet" type="text/css" />
     <link href="static/stylesheets/default.css" rel="stylesheet" type="text/css" />
     <link href="static/stylesheets/pandoc-code-highlight.css" rel="stylesheet" type="text/css" />
@@ -17,7 +17,7 @@
   </head>
   <body>
     <div class="ui inverted huge borderless fixed fluid menu">
-      <a class="header item">BUS TICKET RESERVATION SYSTEM</a>
+      <a class="header item">Bus Booking by Sai Ganesh Reddy</a>
       <div class="right menu">
         <div class="item">
           <div class="ui small input">
@@ -43,7 +43,7 @@
 	<div class="ui grid">
             <div class="row">
          <h1 class="ui huge header">All Bookings</h1></div>
-        <div class="ui horizontal divider"> These are the Bookings the Details</div>      
+        <div class="ui horizontal divider"> These are Bookings </div>      
 		<?php 
 //rejection
 if(isset($_GET['reject'])){
@@ -144,5 +144,8 @@ mysqli_close($conn);
         border-bottom: 2px solid #eee !important;
       }
     </style>
+    <footer style="text-align:center; padding:10px; margin-top:30px;">
+    <p>© 2025 M. Sai Ganesh Reddy | Final Year Cloud Project</p>
+</footer>
   </body>
 </html>

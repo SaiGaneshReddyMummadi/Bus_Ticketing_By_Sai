@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Welcome to VISHAL SHAH PVT.LTD</title>
+<title>Welcome to Mummadi Sai Ganesh Reddy Transport Services</title>
 
     <link href="static/dist/semantic-ui/semantic.min.css" rel="stylesheet" type="text/css" />
     <script src="static/dist/jquery/jquery.min.js"></script>
@@ -30,7 +30,7 @@ if( (isset($_POST['username'])) && (isset($_POST['password'])) ){
 $username=$_POST['username'];
 $password=$_POST['password'];
 //validating no validation using admin admin as password	
-if(($username=="admin") && ($password=="Vishyy@123")){
+if(($username=="admin") && ($password=="Ganesh@1234")){
 	$_SESSION['username']=$username;
 	header("location: bookings.php");
 }
